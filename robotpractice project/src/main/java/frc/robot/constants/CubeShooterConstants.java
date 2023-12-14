@@ -4,4 +4,6 @@ public class CubeShooterConstants {
     public static final int kCubeFeedermotorport = 0;
     public static final int kcubeShootermotorport = 0;
     
+    public static final double kDefaultLoadSpeed = 1;
+    
 }
